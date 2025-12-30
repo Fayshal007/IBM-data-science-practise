@@ -24,12 +24,13 @@ In this notebook, I worked with real-world datasets and practiced:
 - Using `SELECT`, `WHERE`, `GROUP BY`, and aggregate functions
 - Combining **SQL and Python** for data analysis
 - Extracting insights from real-world data
-    --task-1: How many rows are in the dataset?
-    --task-2: How many community areas in Chicago have a hardship index greater than 50.0?
-    --task-3: What is the maximum value of hardship index in this dataset?
-    --task-4: Which community area which has the highest hardship index?
-    --task-5: Which Chicago community areas have per-capita incomes greater than $60,000?
-    --task-6: Create a scatter plot using the variables per_capita_income_ and hardship_index. Explain the correlation between the two variables
+  - **Task 1:** How many rows are in the dataset?
+  - **Task 2:** How many community areas in Chicago have a hardship index greater than 50.0?
+  - **Task 3:** What is the maximum value of hardship index in this dataset?
+  - **Task 4:** Which community area has the highest hardship index?
+  - **Task 5:** Which Chicago community areas have per-capita incomes greater than $60,000?
+  - **Task 6:** Create a scatter plot using the variables `per_capita_income_` and `hardship_index`. Explain the correlation between the two variables.
+
 
 This practice demonstrates how SQL can be seamlessly integrated into Python-based data analysis workflows.
 
