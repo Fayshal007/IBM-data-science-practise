@@ -31,7 +31,7 @@ Running the dummy-variable creation cell multiple times was adding **duplicate e
 if "fuel-type-diesel" not in df.columns:
     df = pd.concat([df, dummy_var], axis=1)
     df.drop("fuel-type", axis=1, inplace=True)
-
+```
 
 ---
 
